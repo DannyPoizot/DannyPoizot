@@ -7,7 +7,7 @@
 
 - **I'm also a musician, I play the guitar and I play the bass in a rock band.**
 
-[![DannyPoizot's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyPoizot)](https://github.com/DannyPoizot/github-readme-stats)
+![DannyPoizot's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyPoizot&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
