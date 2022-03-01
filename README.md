@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, my name is Danny.</h1>
 <h3 align="center">I'm a French learner developper.</h3>
 
-- 🌱 I’m currently learning **ReactJs and NextJs**
+- I’m currently learning **to be an Application Developer Designer**
 
-- 📫 How to reach me **poizot.dan@gmail.com**
+- How to reach me **poizot.dan@gmail.com**
 
-- ⚡ Fun fact **I'm also a musician**
+- Fun fact **I'm also a musician, I play the guitar and I'm playong the bass in a rock band.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
