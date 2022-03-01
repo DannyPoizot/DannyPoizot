@@ -5,7 +5,7 @@
 
 - How to reach me **poizot.dan@gmail.com**
 
-- Fun fact **I'm also a musician, I play the guitar and I'm playong the bass in a rock band.**
+- **I'm also a musician, I play the guitar and I'm playong the bass in a rock band.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
